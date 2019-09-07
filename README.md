@@ -64,6 +64,7 @@ Análisis de los archivos de colegios que se encuentran en la carpeta '../Colegi
 . rank: Enumera los colegio de mayor a menor promedio desde los archivos de esudiantes.<br>
 . rankIndiceTotal: Enumera los colegios de mayor a menor 'IndiceTotal'.<br>
 . Se prensenta una tabla por semestre o anual cuando es posible comparando los rank y rankIndiceTotal para cada colegio.
+. En los archivos SB11-CLASIFI-PLANTELES-20141.txt y SB11-CLASIFI-PLANTELES-20142.txt no se encontraron indicadores de  clasificación como IndiceTotal.
 
 
 
