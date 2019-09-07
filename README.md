@@ -1,5 +1,5 @@
 # Seminario Bases de Datos
-## Trabajo 2
+## Trabajo 2  - Carlos Augusto Hincapié Romero - 71701882
 ### Resultados "estructura de archivos.ipynb"
 Se analizó la estructura interna de los archivos de estudiantes '../SB' y '../Colegios'.
 ### Resultados entre 2006.ipynb - 2013.ipynb y 2019.ipynb
